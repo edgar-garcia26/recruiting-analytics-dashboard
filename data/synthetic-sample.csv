@@ -1,0 +1,25 @@
+Application ID,Company,Job Title,Role Category,Date Applied,Application Source,Status,Location,Days Since Applied,Synthetic Record
+SYN-001,Northstar Analytics,Business Systems Analyst,Business / Systems Analysis,2026-01-05,LinkedIn,Role Closed,"Denver, CO",176,Yes
+SYN-002,Cedar Ridge Systems,Data Analyst,Data & Analytics,2026-01-12,Handshake,Interview,"Aurora, CO",169,Yes
+SYN-003,Blue Mesa Consulting,Operations Analyst,Operations / Administration,2026-01-19,Company Website,Rejected,Remote,162,Yes
+SYN-004,Summit Peak Technologies,Sales Operations Analyst,Sales & Business Development,2026-01-26,Indeed,Pending,"Boulder, CO",155,Yes
+SYN-005,Prairie View Operations,IT Analyst,IT & Infrastructure,2026-02-02,LinkedIn,Role Closed,"Fort Collins, CO",148,Yes
+SYN-006,Aspen Grove Data,Business Systems Analyst,Business / Systems Analysis,2026-02-09,Handshake,Interview,"Denver, CO",141,Yes
+SYN-007,FrontRange Solutions,Data Analyst,Data & Analytics,2026-02-16,Company Website,Rejected,"Aurora, CO",134,Yes
+SYN-008,Clearwater Business Labs,Operations Analyst,Operations / Administration,2026-02-23,Indeed,Pending,Remote,127,Yes
+SYN-009,Northstar Analytics,Sales Operations Analyst,Sales & Business Development,2026-03-02,LinkedIn,Role Closed,"Boulder, CO",120,Yes
+SYN-010,Cedar Ridge Systems,IT Analyst,IT & Infrastructure,2026-03-09,Handshake,Interview,"Fort Collins, CO",113,Yes
+SYN-011,Blue Mesa Consulting,Business Systems Analyst,Business / Systems Analysis,2026-03-16,Company Website,Rejected,"Denver, CO",106,Yes
+SYN-012,Summit Peak Technologies,Data Analyst,Data & Analytics,2026-03-23,Indeed,Pending,"Aurora, CO",99,Yes
+SYN-013,Prairie View Operations,Operations Analyst,Operations / Administration,2026-03-30,LinkedIn,Role Closed,Remote,92,Yes
+SYN-014,Aspen Grove Data,Sales Operations Analyst,Sales & Business Development,2026-04-06,Handshake,Interview,"Boulder, CO",85,Yes
+SYN-015,FrontRange Solutions,IT Analyst,IT & Infrastructure,2026-04-13,Company Website,Rejected,"Fort Collins, CO",78,Yes
+SYN-016,Clearwater Business Labs,Business Systems Analyst,Business / Systems Analysis,2026-04-20,Indeed,Pending,"Denver, CO",71,Yes
+SYN-017,Northstar Analytics,Data Analyst,Data & Analytics,2026-04-27,LinkedIn,Role Closed,"Aurora, CO",64,Yes
+SYN-018,Cedar Ridge Systems,Operations Analyst,Operations / Administration,2026-05-04,Handshake,Interview,Remote,57,Yes
+SYN-019,Blue Mesa Consulting,Sales Operations Analyst,Sales & Business Development,2026-05-11,Company Website,Rejected,"Boulder, CO",50,Yes
+SYN-020,Summit Peak Technologies,IT Analyst,IT & Infrastructure,2026-05-18,Indeed,Pending,"Fort Collins, CO",43,Yes
+SYN-021,Prairie View Operations,Business Systems Analyst,Business / Systems Analysis,2026-05-25,LinkedIn,Role Closed,"Denver, CO",36,Yes
+SYN-022,Aspen Grove Data,Data Analyst,Data & Analytics,2026-06-01,Handshake,Interview,"Aurora, CO",29,Yes
+SYN-023,FrontRange Solutions,Operations Analyst,Operations / Administration,2026-06-08,Company Website,Rejected,Remote,22,Yes
+SYN-024,Clearwater Business Labs,Sales Operations Analyst,Sales & Business Development,2026-06-15,Indeed,Pending,"Boulder, CO",15,Yes
